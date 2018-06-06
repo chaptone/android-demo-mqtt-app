@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "188675297668",
+    "firebase_url": "https://mqttfirebasedb.firebaseio.com",
+    "project_id": "mqttfirebasedb",
+    "storage_bucket": "mqttfirebasedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188675297668:android:9cae99c1373891bb",
+        "android_client_info": {
+          "package_name": "com.example.chapmac.rakkan.android_demo_mqtt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188675297668-j6ejpc0ins51jrrog40s82t757u2rur7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "188675297668-j6ejpc0ins51jrrog40s82t757u2rur7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUzQva5hVHS-Sxlunl2vYKSXg0lkCzSW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
